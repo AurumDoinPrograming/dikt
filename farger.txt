@@ -2,4 +2,3 @@ Blå
 Grønn
 Rosa
 Rød
-Ny farge
