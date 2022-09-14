@@ -2,3 +2,5 @@ Blå
 Grønn
 Rosa
 Rød
+Gul
+indigo
